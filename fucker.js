@@ -2,9 +2,9 @@
 // @name            Tim Cook Fucker
 // @description     Fuck Tim Cook
 // @license         MIT
-// @match           *://google.com/*
-// @match           *://www.google.com/*
-// @match           *://*.google.com/*
+// @match           *://apple.com/*
+// @match           *://www.apple.com/*
+// @match           *://*.apple.com/*
 // @run-at          document-start
 // ==/UserScript==
 
